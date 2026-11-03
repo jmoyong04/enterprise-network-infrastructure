@@ -82,8 +82,12 @@ This is a **simulation/portfolio lab**, not a production deployment.
 
 ## Files
 
-- [`enterprisenetworklab.pkt`](enterprisenetworklab.pkt) — Packet Tracer topology and configurations.
-- `screenshots/` — Planned evidence: topology, DHCP leases, DNS lookup, ACL match counters, SSH logins, and OSPF failover before/after.
+- [Packet Tracer Lab](enterprisenetworklab.pkt) — Complete network simulation and device configurations.
+- [Network Topology](network-topology.png) — Full three-site topology.
+- [OSPF Routing](ospf-routing.png) — Learned routes across sites.
+- [DHCP Verification](dhcp-branch1-management.png) — Branch client DHCP lease.
+- [ACL Verification](acl-sales-filter.png) — Traffic filtering and match counters.
+- [WAN Failover](ospf-wan-failover.png) — OSPF alternate-path selection.
 
 ### Open the lab
 
