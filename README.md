@@ -1,5 +1,7 @@
 # Multi-Site Enterprise Network Infrastructure Lab
 
+![Enterprise Network Topology](network-topology.png)
+
 **Cisco Packet Tracer | Network Design, Routing, Services, Security & Resiliency**
 
 ## Overview
